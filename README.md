@@ -66,3 +66,6 @@ This project is intended for educational and learning purposes. You are free to 
 Akhil Bitra
 
 ⭐ If you find this project useful, feel free to star the repository!
+
+
+<img width="2556" height="1466" alt="Screenshot 2026-07-29 175441" src="https://github.com/user-attachments/assets/07ea85cc-5f6e-441e-b2d4-6bf78eb8a233" />
